@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WpfApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|c:\\users\\user\\source\\repos\\wpfapp5\\wpfapp5\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|C:\\Users\\user\\source\\repos\\WpfApp5\\wpfapp5\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|C:\\Users\\user\\source\\repos\\WpfApp5\\wpfapp5\\requestmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\requestmanagerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|C:\\Users\\user\\source\\repos\\WpfApp5\\wpfapp5\\requestmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7165C1-6595-4234-AEA5-36D31D8EE720}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\requestmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\RequestManagerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestManagerWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\RequestManagerWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:42:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\RequestWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestWindow.xaml",
+              "RelativeToolTip": "WpfApp5\\RequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T11:49:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\RequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\RequestWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:31:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestManagerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\RequestManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp5\\WpfApp5\\RequestManagerWindow.xaml",
+              "RelativeToolTip": "WpfApp5\\RequestManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T18:41:53.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

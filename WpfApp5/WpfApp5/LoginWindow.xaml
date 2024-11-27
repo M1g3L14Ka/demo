@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp5.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="ТехСервис" FontSize="20" Foreground="Green" Margin="6,6,6,6"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Margin="25,25,25,25" Width="550" Height="350">
+            <TextBlock Text="Добро пожаловать!" FontSize="24" HorizontalAlignment="Center" Foreground="green"/>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="25,25,25,25"
+                        Width="450" Height="250">
+                <TextBlock Text="Логин" FontSize="20" Margin="15,5,15,0" Foreground="Green" 
+                           HorizontalAlignment="Center"/>
+                <TextBox Name="txtLogLogin" FontSize="15" Foreground="Green" Margin="15,0,15,5" Width="250" 
+                         HorizontalAlignment="Center"/>
+                <TextBlock Text="Пароль" FontSize="20" Margin="15,5,15,0" Foreground="Green" 
+                           HorizontalAlignment="Center"/>
+                <PasswordBox Name="txtLogPass" FontSize="15" Foreground="Green" Margin="15,0,15,5" Width="250" 
+                        HorizontalAlignment="Center"/>
+                <Button Name="logInBtn" Content="Войти" HorizontalAlignment="Center" Background="White"
+                        Margin="15,10,15,5" Width="50" FontSize="15" Foreground="Green" Click="logInBtn_Click"/>
+                <TextBlock Text="Нет аккаунта? Зарегистрируйтесь!" FontSize="18" Margin="15,15,15,0"
+                           Foreground="Green" HorizontalAlignment="Center"/>
+                <Button Name="goToRegBtn" Content="Зарегистрироваться" HorizontalAlignment="Center" 
+                        Background="White" Margin="15,10,15,5" Width="150" FontSize="15" 
+                        Foreground="Green" Click="goToRegBtn_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
